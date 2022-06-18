@@ -17,11 +17,8 @@
 
 Dark Mode:
 
-![IMG_2209](https://user-images.githubusercontent.com/76536660/174444846-2fe077fc-5652-477d-b651-d287a515e29e.PNG)
-![IMG_2206](https://user-images.githubusercontent.com/76536660/174444945-dfdc9c8c-33bc-4dcd-82c5-e8c366144a2e.PNG)
+<img src="https://user-images.githubusercontent.com/76536660/174444846-2fe077fc-5652-477d-b651-d287a515e29e.PNG" width="400"> <img src="https://user-images.githubusercontent.com/76536660/174444945-dfdc9c8c-33bc-4dcd-82c5-e8c366144a2e.PNG" width="400">
 
 Light Mode:
 
-![IMG_2208](https://user-images.githubusercontent.com/76536660/174444851-5130a510-a30e-4081-9995-4c6a7a644adb.PNG)
-![IMG_2207](https://user-images.githubusercontent.com/76536660/174444849-11348deb-be5f-4b1c-8e16-aaba8364d88b.PNG)
-
+<img src="https://user-images.githubusercontent.com/76536660/174444851-5130a510-a30e-4081-9995-4c6a7a644adb.PNG" width="400"> <img src="https://user-images.githubusercontent.com/76536660/174444849-11348deb-be5f-4b1c-8e16-aaba8364d88b.PNG" width="400">
